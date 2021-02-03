@@ -1,0 +1,15 @@
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/obj/Debug/net5.0/promedioCalificaciones.csprojAssemblyReference.cache
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/obj/Debug/net5.0/promedioCalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/obj/Debug/net5.0/promedioCalificaciones.AssemblyInfoInputs.cache
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/obj/Debug/net5.0/promedioCalificaciones.AssemblyInfo.cs
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/obj/Debug/net5.0/promedioCalificaciones.csproj.CoreCompileInputs.cache
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/bin/Debug/net5.0/promedioCalificaciones.deps.json
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/bin/Debug/net5.0/promedioCalificaciones.runtimeconfig.json
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/bin/Debug/net5.0/promedioCalificaciones.runtimeconfig.dev.json
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/bin/Debug/net5.0/promedioCalificaciones.dll
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/bin/Debug/net5.0/ref/promedioCalificaciones.dll
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/bin/Debug/net5.0/promedioCalificaciones.pdb
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/obj/Debug/net5.0/promedioCalificaciones.dll
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/obj/Debug/net5.0/ref/promedioCalificaciones.dll
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/obj/Debug/net5.0/promedioCalificaciones.pdb
+/Users/chaos/Documents/Desarrollo/net/promedioCalificaciones/obj/Debug/net5.0/promedioCalificaciones.genruntimeconfig.cache
